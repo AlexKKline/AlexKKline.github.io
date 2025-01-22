@@ -1,3 +1,12 @@
 # AlexKKline.github.io
 Name: Alex Kline Contact: AKKLINE@my.waketech.edu
 Description: This account is being built for school work and this is my CTI.110.0002 repository.
+
+## __About Me__
+### My Interests
+* Reading - I have a small house *library* of about 125 books I have collected over the past decade.  
+* Gardening - A big goal of mine is to create a food forest in my yard, it's going to take years.
+
+### Websites I frequent
+* [Youtube](https://www.youtube.com/) - Lately I've been listening to Lofi channels as I do homework, but my most frequently wathed channels are *tzuyang쯔양* and *Pokemon kids TV*, last one is the toddler.
+* [Royal Road](https://www.royalroad.com/home) - Royal Road is a webnovel site where I've been reading *Mother of Learning*, it's a long one but so far well worth it.
